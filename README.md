@@ -47,6 +47,11 @@
     <img src="https://img.shields.io/badge/Postman-ffffff.svg?style=flat&logo=postman&logoColor=EF5B25"></a>
   </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdomeck&layout=compact&theme=nightowl&card_width=800">
+  </p>
+ 
+
 ### Hi there 👋
 
 <!--
