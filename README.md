@@ -55,7 +55,8 @@
   </p>
  
 
-### Hi there 👋
+<!--Thanks to Hexx King https://github.com/HexxKing/HexxKing/blob/main/README.md and David Dicken https://github.com/daviddicken/daviddickenfor their resources-->
+
 
 <!--
 **mdomeck/mdomeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
