@@ -7,7 +7,7 @@
 <a href="https://twitter.com/MeghanDomeck" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/meghandomeck/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/facebook.png"></a>&nbsp;&nbsp;
 <a href="mailto:mdomeck@aol.com" target="_blank" rel="noopener noreferrer"><img height="38"  src="./images/mail_center.png"></a>&nbsp;&nbsp;  
-<a href="https://dev.to/meghandomeck" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/mdomeck" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mdomeck&show_icons=true&theme=onedark"><br>
