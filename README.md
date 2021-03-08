@@ -2,7 +2,7 @@
 
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
-<a href="https://www.linkedin.com/in/mdomeck/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/meghan-domeck/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/MeghanDomeck" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/meghandomeck/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/facebook.png"></a>&nbsp;&nbsp;
 <a href="mailto:domeckmeghan@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
